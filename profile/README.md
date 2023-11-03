@@ -8,7 +8,7 @@ You can find & follow us at:
 - [Facebook](https://www.facebook.com/quizario)
 - [GitHub](https://github.com/quizario)
 - [Telegram](https://t.me/quizariocom)
-- Instagram (coming soon)
-- Twitter (coming soon)
+- [Instagram](https://www.instagram.com/quizariohq/)
+- [Twitter](https://twitter.com/QuizarioHQ)
 
 Visit our homepage at [quizario.com](https://quizario.com/).
